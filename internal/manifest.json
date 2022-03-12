@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-f900d5a2.js",
+    "file": "start-25f1a425.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -39,14 +39,14 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-eda50ad3.js",
+    "file": "pages/__layout.svelte-b74d1234.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "_navigation-bd39ff07.js",
       "_paths-4b3c6e7e.js",
+      "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ],
     "css": [
@@ -87,12 +87,13 @@
     ]
   },
   "src/routes/say-their-names.svelte": {
-    "file": "pages/say-their-names.svelte-511a6a12.js",
+    "file": "pages/say-their-names.svelte-5016dbef.js",
     "src": "src/routes/say-their-names.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
+      "_paths-4b3c6e7e.js",
       "_env-859c48a7.js"
     ]
   },
@@ -109,89 +110,97 @@
     ]
   },
   "src/routes/dishonored/christopher-pullease.md": {
-    "file": "pages/dishonored/christopher-pullease.md-6561b125.js",
+    "file": "pages/dishonored/christopher-pullease.md-4bab950d.js",
     "src": "src/routes/dishonored/christopher-pullease.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/dishonored/christopher-pullease.md-38f0701b.css"
     ]
   },
   "src/routes/dishonored/dionne-holliday.md": {
-    "file": "pages/dishonored/dionne-holliday.md-fbfc9877.js",
+    "file": "pages/dishonored/dionne-holliday.md-6180f099.js",
     "src": "src/routes/dishonored/dionne-holliday.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/kevin-christmon.md": {
-    "file": "pages/dishonored/kevin-christmon.md-e67ad236.js",
+    "file": "pages/dishonored/kevin-christmon.md-4c7c4efd.js",
     "src": "src/routes/dishonored/kevin-christmon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/cameron-lebbon.md": {
-    "file": "pages/dishonored/cameron-lebbon.md-d286c686.js",
+    "file": "pages/dishonored/cameron-lebbon.md-4dc0fddb.js",
     "src": "src/routes/dishonored/cameron-lebbon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/joseph-scuotto.md": {
-    "file": "pages/dishonored/joseph-scuotto.md-0836bd6c.js",
+    "file": "pages/dishonored/joseph-scuotto.md-ae782aca.js",
     "src": "src/routes/dishonored/joseph-scuotto.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/dishonored/joseph-scuotto.md-5307ded6.css"
     ]
   },
   "src/routes/dishonored/ken-ramkissoon.md": {
-    "file": "pages/dishonored/ken-ramkissoon.md-d91dc482.js",
+    "file": "pages/dishonored/ken-ramkissoon.md-bd406197.js",
     "src": "src/routes/dishonored/ken-ramkissoon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/derek-chavin.md": {
-    "file": "pages/dishonored/derek-chavin.md-0ed51264.js",
+    "file": "pages/dishonored/derek-chavin.md-c8819944.js",
     "src": "src/routes/dishonored/derek-chavin.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/mitch-fuller.md": {
-    "file": "pages/dishonored/mitch-fuller.md-58ac6457.js",
+    "file": "pages/dishonored/mitch-fuller.md-9716ef38.js",
     "src": "src/routes/dishonored/mitch-fuller.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-686f0d5c.js"
+      "__post-4e291421.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/categories/[category].svelte": {
@@ -219,107 +228,116 @@
     ]
   },
   "src/routes/resources/what-is-a-first-amendment-auditor.md": {
-    "file": "pages/resources/what-is-a-first-amendment-auditor.md-61d6d744.js",
+    "file": "pages/resources/what-is-a-first-amendment-auditor.md-07cd33c0.js",
     "src": "src/routes/resources/what-is-a-first-amendment-auditor.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/all-amendments-from-constitution.md": {
-    "file": "pages/resources/all-amendments-from-constitution.md-48a074d4.js",
+    "file": "pages/resources/all-amendments-from-constitution.md-3b8401db.js",
     "src": "src/routes/resources/all-amendments-from-constitution.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/officers-donot-have-to-know-law.md": {
-    "file": "pages/resources/officers-donot-have-to-know-law.md-63fa1481.js",
+    "file": "pages/resources/officers-donot-have-to-know-law.md-c1f2757f.js",
     "src": "src/routes/resources/officers-donot-have-to-know-law.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/resources/officers-donot-have-to-know-law.md-1c1135df.css"
     ]
   },
   "src/routes/resources/what-does-thin-blue-line-mean.md": {
-    "file": "pages/resources/what-does-thin-blue-line-mean.md-c65d5d97.js",
+    "file": "pages/resources/what-does-thin-blue-line-mean.md-dafc317c.js",
     "src": "src/routes/resources/what-does-thin-blue-line-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/want-to-stop-being-racist.md": {
-    "file": "pages/resources/want-to-stop-being-racist.md-21d34f04.js",
+    "file": "pages/resources/want-to-stop-being-racist.md-d46d4886.js",
     "src": "src/routes/resources/want-to-stop-being-racist.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js",
-      "_AverageSentence-3db39766.js"
+      "__post-515bf29d.js",
+      "_AverageSentence-3db39766.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/resources/want-to-stop-being-racist.md-064c868f.css"
     ]
   },
   "src/routes/resources/what-does-acab-mean.md": {
-    "file": "pages/resources/what-does-acab-mean.md-775b01e6.js",
+    "file": "pages/resources/what-does-acab-mean.md-017ba06e.js",
     "src": "src/routes/resources/what-does-acab-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/racism-in-policing.md": {
-    "file": "pages/resources/racism-in-policing.md-efe40697.js",
+    "file": "pages/resources/racism-in-policing.md-ae42cb60.js",
     "src": "src/routes/resources/racism-in-policing.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js",
-      "_AverageSentence-3db39766.js"
+      "__post-515bf29d.js",
+      "_AverageSentence-3db39766.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/resources/racism-in-policing.md-05028f43.css"
     ]
   },
   "src/routes/resources/defunding-police.md": {
-    "file": "pages/resources/defunding-police.md-29635d17.js",
+    "file": "pages/resources/defunding-police.md-5f18e9f4.js",
     "src": "src/routes/resources/defunding-police.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/pages/resources/defunding-police.md-8c8c381c.css"
     ]
   },
   "src/routes/resources/your-rights.md": {
-    "file": "pages/resources/your-rights.md-f748ee79.js",
+    "file": "pages/resources/your-rights.md-334bac9c.js",
     "src": "src/routes/resources/your-rights.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "__post-c211b987.js"
+      "__post-515bf29d.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/categories/[category].svelte": {
@@ -348,13 +366,14 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-3ce6c9a1.js",
+    "file": "pages/about.svelte-554dc814.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "_env-859c48a7.js"
+      "_env-859c48a7.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "_vendor-1a321495.js": {
@@ -385,19 +404,21 @@
   "_env-859c48a7.js": {
     "file": "chunks/env-859c48a7.js"
   },
-  "__post-686f0d5c.js": {
-    "file": "chunks/_post-686f0d5c.js",
+  "__post-4e291421.js": {
+    "file": "chunks/_post-4e291421.js",
     "imports": [
-      "_vendor-1a321495.js"
+      "_vendor-1a321495.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/_post-06db7cb9.css"
     ]
   },
-  "__post-c211b987.js": {
-    "file": "chunks/_post-c211b987.js",
+  "__post-515bf29d.js": {
+    "file": "chunks/_post-515bf29d.js",
     "imports": [
-      "_vendor-1a321495.js"
+      "_vendor-1a321495.js",
+      "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/_post-b6c380c1.css"
