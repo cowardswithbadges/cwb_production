@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d2ba95f4.js",
+    "file": "start-55b3aecb.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -99,14 +99,14 @@
     ]
   },
   "src/routes/dishonored/index.svelte": {
-    "file": "pages/dishonored/index.svelte-2f5c76cc.js",
+    "file": "pages/dishonored/index.svelte-a33c2f73.js",
     "src": "src/routes/dishonored/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
-      "_Grid-a32b06c5.js",
       "_paths-4b3c6e7e.js",
+      "_Grid-a32b06c5.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ]
@@ -254,7 +254,7 @@
     ]
   },
   "src/routes/resources/officers-donot-have-to-know-law.md": {
-    "file": "pages/resources/officers-donot-have-to-know-law.md-645636c6.js",
+    "file": "pages/resources/officers-donot-have-to-know-law.md-b18ba718.js",
     "src": "src/routes/resources/officers-donot-have-to-know-law.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -264,7 +264,7 @@
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/resources/officers-donot-have-to-know-law.md-1c1135df.css"
+      "assets/pages/resources/officers-donot-have-to-know-law.md-f9bcc7d5.css"
     ]
   },
   "src/routes/resources/what-does-thin-blue-line-mean.md": {
@@ -279,18 +279,18 @@
     ]
   },
   "src/routes/resources/want-to-stop-being-racist.md": {
-    "file": "pages/resources/want-to-stop-being-racist.md-d46d4886.js",
+    "file": "pages/resources/want-to-stop-being-racist.md-92e457d6.js",
     "src": "src/routes/resources/want-to-stop-being-racist.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
       "__post-515bf29d.js",
-      "_AverageSentence-3db39766.js",
+      "_AverageSentence-0a646dab.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/resources/want-to-stop-being-racist.md-064c868f.css"
+      "assets/pages/resources/want-to-stop-being-racist.md-4cc93155.css"
     ]
   },
   "src/routes/resources/what-does-acab-mean.md": {
@@ -305,14 +305,14 @@
     ]
   },
   "src/routes/resources/racism-in-policing.md": {
-    "file": "pages/resources/racism-in-policing.md-dae69e67.js",
+    "file": "pages/resources/racism-in-policing.md-50208796.js",
     "src": "src/routes/resources/racism-in-policing.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1a321495.js",
       "__post-515bf29d.js",
-      "_AverageSentence-3db39766.js",
+      "_AverageSentence-0a646dab.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -320,7 +320,7 @@
     ]
   },
   "src/routes/resources/defunding-police.md": {
-    "file": "pages/resources/defunding-police.md-5f18e9f4.js",
+    "file": "pages/resources/defunding-police.md-b84806d3.js",
     "src": "src/routes/resources/defunding-police.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -330,7 +330,7 @@
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/resources/defunding-police.md-8c8c381c.css"
+      "assets/pages/resources/defunding-police.md-11284d27.css"
     ]
   },
   "src/routes/resources/your-rights.md": {
@@ -430,13 +430,13 @@
       "assets/_post-b6c380c1.css"
     ]
   },
-  "_AverageSentence-3db39766.js": {
-    "file": "chunks/AverageSentence-3db39766.js",
+  "_AverageSentence-0a646dab.js": {
+    "file": "chunks/AverageSentence-0a646dab.js",
     "imports": [
       "_vendor-1a321495.js"
     ],
     "css": [
-      "assets/AverageSentence-1384bfc3.css"
+      "assets/AverageSentence-387d655f.css"
     ]
   }
 }
