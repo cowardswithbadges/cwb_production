@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8ab290bb.js",
+    "file": "start-aab16bef.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
       "_singletons-a6a7384f.js"
     ],
@@ -39,12 +39,12 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-0a660498.js",
+    "file": "pages/__layout.svelte-5fab6f1b.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
@@ -63,24 +63,24 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-d18f6cb6.js",
+    "file": "error.svelte-db920e8f.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js"
+      "_vendor-1fc99a1f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8fabdfb4.js",
+    "file": "pages/index.svelte-5fb8e954.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
       "_navigation-bd39ff07.js",
-      "_Grid-a32b06c5.js",
+      "_Grid-b92cd387.js",
       "_singletons-a6a7384f.js"
     ],
     "css": [
@@ -88,37 +88,37 @@
     ]
   },
   "src/routes/say-their-names.svelte": {
-    "file": "pages/say-their-names.svelte-5016dbef.js",
+    "file": "pages/say-their-names.svelte-2d966dcc.js",
     "src": "src/routes/say-their-names.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
       "_env-859c48a7.js"
     ]
   },
   "src/routes/dishonored/index.svelte": {
-    "file": "pages/dishonored/index.svelte-a33c2f73.js",
+    "file": "pages/dishonored/index.svelte-67471e78.js",
     "src": "src/routes/dishonored/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
-      "_Grid-a32b06c5.js",
+      "_Grid-b92cd387.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ]
   },
   "src/routes/dishonored/christopher-pullease.md": {
-    "file": "pages/dishonored/christopher-pullease.md-4bab950d.js",
+    "file": "pages/dishonored/christopher-pullease.md-4190046c.js",
     "src": "src/routes/dishonored/christopher-pullease.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -126,46 +126,46 @@
     ]
   },
   "src/routes/dishonored/dionne-holliday.md": {
-    "file": "pages/dishonored/dionne-holliday.md-6180f099.js",
+    "file": "pages/dishonored/dionne-holliday.md-f1f011ea.js",
     "src": "src/routes/dishonored/dionne-holliday.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/kevin-christmon.md": {
-    "file": "pages/dishonored/kevin-christmon.md-4c7c4efd.js",
+    "file": "pages/dishonored/kevin-christmon.md-56ab9e0b.js",
     "src": "src/routes/dishonored/kevin-christmon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/cameron-lebbon.md": {
-    "file": "pages/dishonored/cameron-lebbon.md-4dc0fddb.js",
+    "file": "pages/dishonored/cameron-lebbon.md-467ef1ca.js",
     "src": "src/routes/dishonored/cameron-lebbon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/joseph-scuotto.md": {
-    "file": "pages/dishonored/joseph-scuotto.md-ae782aca.js",
+    "file": "pages/dishonored/joseph-scuotto.md-63a26cc5.js",
     "src": "src/routes/dishonored/joseph-scuotto.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -173,94 +173,94 @@
     ]
   },
   "src/routes/dishonored/ken-ramkissoon.md": {
-    "file": "pages/dishonored/ken-ramkissoon.md-bd406197.js",
+    "file": "pages/dishonored/ken-ramkissoon.md-2d5f37bf.js",
     "src": "src/routes/dishonored/ken-ramkissoon.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/derek-chavin.md": {
-    "file": "pages/dishonored/derek-chavin.md-c8819944.js",
+    "file": "pages/dishonored/derek-chavin.md-3c570286.js",
     "src": "src/routes/dishonored/derek-chavin.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/mitch-fuller.md": {
-    "file": "pages/dishonored/mitch-fuller.md-9716ef38.js",
+    "file": "pages/dishonored/mitch-fuller.md-5fe68e4b.js",
     "src": "src/routes/dishonored/mitch-fuller.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-4e291421.js",
+      "_vendor-1fc99a1f.js",
+      "__post-ad478497.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/categories/[category].svelte": {
-    "file": "pages/dishonored/categories/_category_.svelte-81b433c6.js",
+    "file": "pages/dishonored/categories/_category_.svelte-83530736.js",
     "src": "src/routes/dishonored/categories/[category].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
-      "_Grid-a32b06c5.js",
+      "_Grid-b92cd387.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ]
   },
   "src/routes/resources/index.svelte": {
-    "file": "pages/resources/index.svelte-d9c0e467.js",
+    "file": "pages/resources/index.svelte-ad4c75b8.js",
     "src": "src/routes/resources/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
-      "_Grid-a32b06c5.js",
+      "_Grid-b92cd387.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ]
   },
   "src/routes/resources/what-is-a-first-amendment-auditor.md": {
-    "file": "pages/resources/what-is-a-first-amendment-auditor.md-07cd33c0.js",
+    "file": "pages/resources/what-is-a-first-amendment-auditor.md-30e1e7f2.js",
     "src": "src/routes/resources/what-is-a-first-amendment-auditor.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/all-amendments-from-constitution.md": {
-    "file": "pages/resources/all-amendments-from-constitution.md-3b8401db.js",
+    "file": "pages/resources/all-amendments-from-constitution.md-3231c0e9.js",
     "src": "src/routes/resources/all-amendments-from-constitution.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/officers-donot-have-to-know-law.md": {
-    "file": "pages/resources/officers-donot-have-to-know-law.md-b0e0e1a7.js",
+    "file": "pages/resources/officers-donot-have-to-know-law.md-0a5bf0c5.js",
     "src": "src/routes/resources/officers-donot-have-to-know-law.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -268,25 +268,25 @@
     ]
   },
   "src/routes/resources/what-does-thin-blue-line-mean.md": {
-    "file": "pages/resources/what-does-thin-blue-line-mean.md-dafc317c.js",
+    "file": "pages/resources/what-does-thin-blue-line-mean.md-b681ab6b.js",
     "src": "src/routes/resources/what-does-thin-blue-line-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/want-to-stop-being-racist.md": {
-    "file": "pages/resources/want-to-stop-being-racist.md-92e457d6.js",
+    "file": "pages/resources/want-to-stop-being-racist.md-d93ed8eb.js",
     "src": "src/routes/resources/want-to-stop-being-racist.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
-      "_AverageSentence-0a646dab.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
+      "_AverageSentence-ce46e957.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -294,25 +294,25 @@
     ]
   },
   "src/routes/resources/what-does-acab-mean.md": {
-    "file": "pages/resources/what-does-acab-mean.md-017ba06e.js",
+    "file": "pages/resources/what-does-acab-mean.md-475e2b1e.js",
     "src": "src/routes/resources/what-does-acab-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/racism-in-policing.md": {
-    "file": "pages/resources/racism-in-policing.md-3d65f46d.js",
+    "file": "pages/resources/racism-in-policing.md-2d0f0ba1.js",
     "src": "src/routes/resources/racism-in-policing.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
-      "_AverageSentence-0a646dab.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
+      "_AverageSentence-ce46e957.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -320,13 +320,13 @@
     ]
   },
   "src/routes/resources/defunding-police.md": {
-    "file": "pages/resources/defunding-police.md-b84806d3.js",
+    "file": "pages/resources/defunding-police.md-de81b552.js",
     "src": "src/routes/resources/defunding-police.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
@@ -334,36 +334,36 @@
     ]
   },
   "src/routes/resources/your-rights.md": {
-    "file": "pages/resources/your-rights.md-334bac9c.js",
+    "file": "pages/resources/your-rights.md-e48c60e8.js",
     "src": "src/routes/resources/your-rights.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
-      "__post-515bf29d.js",
+      "_vendor-1fc99a1f.js",
+      "__post-53b55210.js",
       "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/resources/categories/[category].svelte": {
-    "file": "pages/resources/categories/_category_.svelte-c8eced9e.js",
+    "file": "pages/resources/categories/_category_.svelte-a9f6cac1.js",
     "src": "src/routes/resources/categories/[category].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
-      "_Grid-a32b06c5.js",
+      "_Grid-b92cd387.js",
       "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js"
     ]
   },
   "src/routes/contact.svelte": {
-    "file": "pages/contact.svelte-8099b95c.js",
+    "file": "pages/contact.svelte-4b9b3831.js",
     "src": "src/routes/contact.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_env-859c48a7.js"
     ],
     "css": [
@@ -371,18 +371,18 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-554dc814.js",
+    "file": "pages/about.svelte-52d7ca83.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_env-859c48a7.js",
       "_paths-4b3c6e7e.js"
     ]
   },
-  "_vendor-1a321495.js": {
-    "file": "chunks/vendor-1a321495.js"
+  "_vendor-1fc99a1f.js": {
+    "file": "chunks/vendor-1fc99a1f.js"
   },
   "_paths-4b3c6e7e.js": {
     "file": "chunks/paths-4b3c6e7e.js"
@@ -396,44 +396,44 @@
       "_singletons-a6a7384f.js"
     ]
   },
-  "_Grid-a32b06c5.js": {
-    "file": "chunks/Grid-a32b06c5.js",
+  "_Grid-b92cd387.js": {
+    "file": "chunks/Grid-b92cd387.js",
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js",
       "_navigation-bd39ff07.js"
     ],
     "css": [
-      "assets/Grid-44aea006.css"
+      "assets/Grid-b8806ae8.css"
     ]
   },
   "_env-859c48a7.js": {
     "file": "chunks/env-859c48a7.js"
   },
-  "__post-4e291421.js": {
-    "file": "chunks/_post-4e291421.js",
+  "__post-ad478497.js": {
+    "file": "chunks/_post-ad478497.js",
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/_post-06db7cb9.css"
     ]
   },
-  "__post-515bf29d.js": {
-    "file": "chunks/_post-515bf29d.js",
+  "__post-53b55210.js": {
+    "file": "chunks/_post-53b55210.js",
     "imports": [
-      "_vendor-1a321495.js",
+      "_vendor-1fc99a1f.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
       "assets/_post-b6c380c1.css"
     ]
   },
-  "_AverageSentence-0a646dab.js": {
-    "file": "chunks/AverageSentence-0a646dab.js",
+  "_AverageSentence-ce46e957.js": {
+    "file": "chunks/AverageSentence-ce46e957.js",
     "imports": [
-      "_vendor-1a321495.js"
+      "_vendor-1fc99a1f.js"
     ],
     "css": [
       "assets/AverageSentence-387d655f.css"
