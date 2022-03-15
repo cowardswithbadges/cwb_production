@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-2135dbd4.js",
+    "file": "start-bb25d3ef.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -305,7 +305,7 @@
     ]
   },
   "src/routes/resources/racism-in-policing.md": {
-    "file": "pages/resources/racism-in-policing.md-853aeea9.js",
+    "file": "pages/resources/racism-in-policing.md-b064a1f8.js",
     "src": "src/routes/resources/racism-in-policing.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -334,7 +334,7 @@
     ]
   },
   "src/routes/resources/your-rights.md": {
-    "file": "pages/resources/your-rights.md-7c1d430c.js",
+    "file": "pages/resources/your-rights.md-de60bee3.js",
     "src": "src/routes/resources/your-rights.md",
     "isEntry": true,
     "isDynamicEntry": true,
