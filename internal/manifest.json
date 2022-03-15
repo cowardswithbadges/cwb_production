@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-bb25d3ef.js",
+    "file": "start-a742f609.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -254,7 +254,7 @@
     ]
   },
   "src/routes/resources/officers-donot-have-to-know-law.md": {
-    "file": "pages/resources/officers-donot-have-to-know-law.md-b9c84dc1.js",
+    "file": "pages/resources/officers-donot-have-to-know-law.md-5c53c9a9.js",
     "src": "src/routes/resources/officers-donot-have-to-know-law.md",
     "isEntry": true,
     "isDynamicEntry": true,
