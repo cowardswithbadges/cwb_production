@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-59bca6fc.js",
+    "file": "start-2135dbd4.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -232,7 +232,7 @@
     ]
   },
   "src/routes/resources/what-is-a-first-amendment-auditor.md": {
-    "file": "pages/resources/what-is-a-first-amendment-auditor.md-f771a328.js",
+    "file": "pages/resources/what-is-a-first-amendment-auditor.md-efdb04b1.js",
     "src": "src/routes/resources/what-is-a-first-amendment-auditor.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -243,7 +243,7 @@
     ]
   },
   "src/routes/resources/all-amendments-from-constitution.md": {
-    "file": "pages/resources/all-amendments-from-constitution.md-168141a6.js",
+    "file": "pages/resources/all-amendments-from-constitution.md-f6a566e4.js",
     "src": "src/routes/resources/all-amendments-from-constitution.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -268,7 +268,7 @@
     ]
   },
   "src/routes/resources/what-does-thin-blue-line-mean.md": {
-    "file": "pages/resources/what-does-thin-blue-line-mean.md-bf8b08ef.js",
+    "file": "pages/resources/what-does-thin-blue-line-mean.md-75ebd72f.js",
     "src": "src/routes/resources/what-does-thin-blue-line-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -294,7 +294,7 @@
     ]
   },
   "src/routes/resources/what-does-acab-mean.md": {
-    "file": "pages/resources/what-does-acab-mean.md-554a2333.js",
+    "file": "pages/resources/what-does-acab-mean.md-f507a29a.js",
     "src": "src/routes/resources/what-does-acab-mean.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -320,7 +320,7 @@
     ]
   },
   "src/routes/resources/defunding-police.md": {
-    "file": "pages/resources/defunding-police.md-d36b8390.js",
+    "file": "pages/resources/defunding-police.md-65a4fe0e.js",
     "src": "src/routes/resources/defunding-police.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -334,7 +334,7 @@
     ]
   },
   "src/routes/resources/your-rights.md": {
-    "file": "pages/resources/your-rights.md-7b074905.js",
+    "file": "pages/resources/your-rights.md-7c1d430c.js",
     "src": "src/routes/resources/your-rights.md",
     "isEntry": true,
     "isDynamicEntry": true,
