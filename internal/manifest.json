@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-170f1e6d.js",
+    "file": "start-5c6194fe.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -254,7 +254,7 @@
     ]
   },
   "src/routes/resources/officers-donot-have-to-know-law.md": {
-    "file": "pages/resources/officers-donot-have-to-know-law.md-615542d8.js",
+    "file": "pages/resources/officers-donot-have-to-know-law.md-8109da5a.js",
     "src": "src/routes/resources/officers-donot-have-to-know-law.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -320,7 +320,7 @@
     ]
   },
   "src/routes/resources/defunding-police.md": {
-    "file": "pages/resources/defunding-police.md-65a4fe0e.js",
+    "file": "pages/resources/defunding-police.md-63f7a461.js",
     "src": "src/routes/resources/defunding-police.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -330,7 +330,7 @@
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/resources/defunding-police.md-11284d27.css"
+      "assets/pages/resources/defunding-police.md-c50337c1.css"
     ]
   },
   "src/routes/resources/your-rights.md": {
