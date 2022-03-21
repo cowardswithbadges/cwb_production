@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-bb48f4df.js",
+    "file": "start-3ebf8df1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -13,6 +13,7 @@
       "src/routes/__error.svelte",
       "src/routes/index.svelte",
       "src/routes/say-their-names.svelte",
+      "src/routes/github-error.svelte",
       "src/routes/dishonored/index.svelte",
       "src/routes/dishonored/christopher-pullease.md",
       "src/routes/dishonored/dionne-holliday.md",
@@ -63,19 +64,20 @@
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-8fcc5e07.js",
+    "file": "pages/__error.svelte-308d6a07.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-ead1d6ea.js",
-      "_navigation-bd39ff07.js",
+      "_NotFoundScreen-a7a827e6.js",
       "_Grid-dc2ba6dd.js",
+      "_navigation-bd39ff07.js",
       "_singletons-a6a7384f.js",
       "_paths-4b3c6e7e.js"
     ],
     "css": [
-      "assets/pages/__error.svelte-b7e3912e.css"
+      "assets/pages/__error.svelte-ef9f699d.css"
     ]
   },
   "src/routes/index.svelte": {
@@ -103,6 +105,20 @@
       "_vendor-ead1d6ea.js",
       "_paths-4b3c6e7e.js",
       "_env-859c48a7.js"
+    ]
+  },
+  "src/routes/github-error.svelte": {
+    "file": "pages/github-error.svelte-b60e408c.js",
+    "src": "src/routes/github-error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-ead1d6ea.js",
+      "_NotFoundScreen-a7a827e6.js",
+      "_navigation-bd39ff07.js",
+      "_singletons-a6a7384f.js",
+      "_Grid-dc2ba6dd.js",
+      "_paths-4b3c6e7e.js"
     ]
   },
   "src/routes/dishonored/index.svelte": {
@@ -378,7 +394,7 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-37b9308d.js",
+    "file": "pages/about.svelte-83f60611.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -401,6 +417,17 @@
     "file": "chunks/navigation-bd39ff07.js",
     "imports": [
       "_singletons-a6a7384f.js"
+    ]
+  },
+  "_NotFoundScreen-a7a827e6.js": {
+    "file": "chunks/NotFoundScreen-a7a827e6.js",
+    "imports": [
+      "_vendor-ead1d6ea.js",
+      "_navigation-bd39ff07.js",
+      "_Grid-dc2ba6dd.js"
+    ],
+    "css": [
+      "assets/NotFoundScreen-b4a631da.css"
     ]
   },
   "_Grid-dc2ba6dd.js": {
